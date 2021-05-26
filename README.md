@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arpan Sharma</h1>
+<img src="./gitarpan.png">
 <h3 align="center">A creative developer having a perspective of a designer.</h3>
 
 
