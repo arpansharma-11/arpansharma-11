@@ -1,5 +1,5 @@
 <img src="./gitarpan.png">
-<h3 align="center">A creative developer having a perspective of a designer.</h3>
+<h3 align="center">A creative developer with a perspective of a designer.</h3>
 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
