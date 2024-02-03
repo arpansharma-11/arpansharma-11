@@ -1,8 +1,8 @@
 <img src="./gitarpan.png">
-<h3 align="center">A creative developer with a perspective of a designer.</h3>
+<h3 align="center">developer</h3>
 
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 Software Engineer
 
 - 📫 How to reach me **arpansharma200@gmail.com**
 
